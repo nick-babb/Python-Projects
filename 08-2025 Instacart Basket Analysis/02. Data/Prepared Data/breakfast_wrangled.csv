@@ -1,0 +1,1117 @@
+,product_id,product_name,aisle_id,department_id,prices
+27,28,Wheat Chex Cereal,121,14,10.1
+33,34,,121,14,12.2
+67,68,"Pancake Mix, Buttermilk",130,14,13.7
+89,90,Smorz Cereal,121,14,3.9
+210,211,Gluten Free Organic Cereal Coconut Maple Vanilla,130,14,3.6
+215,216,"Gluten Free Oatmeal, Variety Pack",130,14,4.5
+221,222,Honey Nut Oatmeal Squares,121,14,1.1
+237,238,Alpha-Bits Multigrain Cereal,121,14,11.9
+251,252,"Waffles, Red Berry",121,14,4.9
+287,288,Original Sprouted Grains Protein & Fiber Hot Oatmeal,130,14,4.5
+339,340,Eco-Pac Kamut Puffs Cereal,121,14,7.8
+364,365,Cheerios Cereal,121,14,10.5
+437,438,Special K Vanilla Cappuccino Protein Breakfast Shakes,48,14,9.5
+456,457,Whole Wheat Fig Bar,48,14,5.3
+510,510,Protein Blend Honey Oats & Seeds Cereal,121,14,8.3
+550,550,"Granola, Veritas, Organic",57,14,1.7
+565,565,Light and Fluffy  Blueberry Pancake Mix,130,14,5.8
+588,588,Special K Original Cereal,121,14,12.2
+637,637,Multigrain Peanut Butter Cereal,121,14,7.6
+661,661,Sweet Lemon Rain Dance Bar,48,14,1.8
+691,691,Organic Promise Strawberry Fields Cereal,121,14,2.7
+697,697,Quick Cooking Steel Cut Oats,130,14,11.7
+745,745,Complete Funfetti Buttermilk Pancake & Waffle Mix,130,14,7.5
+812,812,Healthy Grains Oats & Honey Clusters with Toasted Coconut Gluten Free,57,14,14.4
+853,853,Crunchy Granola Bars Variety Pack,48,14,8.7
+910,910,Nutri-Grain Harvest Hearty Breakfast Bars Country Strawberry,48,14,5.8
+978,978,Mallow Oats Cereals,121,14,4.4
+994,994,Shake n Pour Buttermilk Pancake Mix,130,14,13.4
+1049,1049,Special K Protein Chewy Granola Bars Almond Honey Oat,48,14,2.9
+1087,1087,Sunrise Crunchy Cinnamon Cereal,121,14,11.6
+1245,1245,All-Natural Irish Style Oatmeal,130,14,10.6
+1257,1257,Organic Amaranth Flakes,121,14,5.8
+1301,1301,"Cereal, Panda Puffs, Peanut Butter",121,14,4.5
+1306,1306,Raisin Bran Whole Grain Wheat & Bran Cereal,121,14,6.7
+1333,1333,90 Calorie Chewy Bars Chocolate Peanut Butter,48,14,5.9
+1422,1422,Apple Quinoa Cinnamon Oatmeal Fruit Squeeze,121,14,9.4
+1441,1441,Quinoa Cereal Honey Almond,121,14,2.5
+1451,1451,Oops! All Berries Cereal,121,14,13.0
+1464,1464,Special k Protein Cereal,121,14,6.4
+1485,1485,Pop-Tarts Frosted Strawberry Toaster Pastries,48,14,8.1
+1508,1508,Simply Delicious Gluten-Free Blissfully Berry Cereal,121,14,7.0
+1514,1514,Cracklin' Oat Bran Cereal,121,14,9.0
+1521,1521,10 Grams Protein Cranberry Almond Instant Oatmeal,130,14,11.4
+1551,1551,Nutri Grain Apple Cinnamon Harvest Bars,48,14,2.2
+1578,1578,Apple Jacks Cereal,121,14,8.3
+1583,1583,Complete Original Pancake & Waffle Mix,130,14,4.7
+1616,1616,Simply Granola,57,14,12.5
+1633,1633,"Pancake & Waffle Mix, Almond Flour",130,14,10.8
+1728,1728,Organic Whole Wheat Stoneground Flakes Cereal,121,14,6.4
+1783,1783,Organic French Vanilla Almond Granola,57,14,13.9
+1982,1982,Steel Cut Quick Cook Oven Toasted Oats,130,14,13.8
+2051,2051,Sunrise Crunchy Honey Cereal,121,14,3.3
+2077,2077,Light Frosted Amazon Flakes,121,14,5.4
+2137,2137,Granola Low Fat with Raisins,57,14,12.5
+2172,2172,Oat Revolution! Thick & Hearty Apples & Cinnamon Instant Oatmeal,130,14,13.6
+2208,2208,Granola With Raisins,121,14,12.3
+2289,2289,Quick 5-Minute Grits,130,14,7.5
+2367,2367,Variety Pack Instant Oatmeal,130,14,5.8
+2449,2449,"Tri Fun Pack Fruit Loops, Cocoa Krispies; Apple Jacks",121,14,4.1
+2476,2476,Gluten Free Apple Cinnamon Toaster Pastry,48,14,4.9
+2519,2519,Rice Krispies Cereal,121,14,1.1
+2543,2543,Crispy Rice Cereal,121,14,3.2
+2562,2562,Quick & Easy Steel Cut Irish Oatmeal,130,14,9.3
+2634,2634,Cereal Frosted Flakes Chocolate Choco Zucaritas,121,14,7.3
+2652,2652,Chocolate Blend Granola,57,14,6.3
+2779,2779,Oat Revolution! Maple & Brown Sugar Steel Cut Oatmeal Pouches,130,14,12.5
+2796,2796,American Blend,130,14,2.4
+2806,2806,Toasted Artisan Mix Granola,57,14,9.1
+2815,2815,Special K Protein Greek Yogurt And Fruit Bar 4.76oz,48,14,8.9
+2832,2832,Organic Quinoa Hot Cereal Flakes,121,14,9.5
+3107,3107,Fiber One Oat & Chocolate Bar,48,14,13.3
+3118,3118,Original Instant Grits,130,14,14.4
+3214,3214,Original Granola Cereal,121,14,8.0
+3217,3217,Organic Oven Toasted Oats Old Fashioned,130,14,5.4
+3225,3225,Risin' Raisin Ancient Grains Cereal,121,14,14.9
+3257,3257,Granola Pumpkin Spice Mix,57,14,5.6
+3264,3264,"Muesli, Bircher (Unsweetened)",57,14,6.3
+3315,3315,7 Whole Grain Flakes Cereal,121,14,2.1
+3316,3316,Red Velvet Pastry Crisps,48,14,1.7
+3343,3343,Toasted Wheat Germ,121,14,11.2
+3409,3409,Total Raisin Bran Cereal,121,14,2.0
+3477,3477,"Fruit & Veggie 1,2,3",121,14,14.0
+3505,3505,Special K Red Berries Cereal Bars,48,14,11.1
+3510,3510,Swedish Oatmeal Pancakes,130,14,11.3
+3590,3590,Real Medleys Summer Berry Oatmeal Cup,130,14,6.2
+3630,3630,Protein Granola Apple Crisp,57,14,2.6
+3886,3886,Organic Maple Brown Sugar Granola,57,14,8.1
+3894,3894,Frosted Granny's Apple Pie Toaster Pastries,48,14,3.6
+3929,3929,Apple Fruit & Grain Cereal Bars,48,14,3.5
+4137,4137,Whole Grain Oat Cereal,121,14,13.5
+4170,4170,"Cereal, Veganic Sprouted, Spelt Flakes",121,14,1.8
+4202,4202,Cookie Crisp Cereal,121,14,4.9
+4410,4410,Organic Flax Plus Multibran Flakes,121,14,4.5
+4455,4455,Raspberry Cereal,48,14,8.7
+4458,4458,Hot & Fit Mayan Blend Cereal,130,14,5.3
+4485,4485,Cinnamon Raisin Granola,57,14,2.6
+4498,4498,Maple Granola Cereal,57,14,2.5
+4591,4591,Quick 1 Minute Oatmeal,130,14,1.2
+4593,4593,Gluten Free Pancake & Waffle Mix,130,14,5.7
+4634,4634,Oatmeal Variety Pack,130,14,11.1
+4779,4779,Muesli,130,14,4.2
+4792,4792,Panda Puffs Peanut Butter Cereal,121,14,9.5
+4825,4825,Paleo Granola Cranberry Lemon,57,14,14.0
+4828,4828,Krave Double Chocolate Cereal,121,14,10.8
+4893,4893,Quick Enriched Hominy Grits,130,14,3.4
+4912,4912,Pure Tapioca Flour,130,14,3.6
+4982,4982,Organic Stoneground Flakes Cocoa Clusters Cereal,121,14,14.9
+5063,5063,Maple & Pecan Granola Gluten Free,57,14,7.3
+5214,5214,Organic Corn Flakes Fruit Juice Sweetened Cereal,121,14,13.6
+5223,5223,Fruit & Cream Variety Pack,130,14,4.0
+5354,5354,Honey Bunches of Oats with Almonds Cereal,121,14,14.4
+5543,5543,Toasted Rice And Wheat Flakes Cereal,121,14,9.0
+5572,5572,Kellogg's Frosted Mini Wheats Maple Brown Sugar Cereal,121,14,12.2
+5692,5692,Cinnamon & Spice Instant Oatmeal,130,14,2.8
+5752,5752,"Organic Qi'a Superfood Oatmeal, Cinnamon Pumpkin Seed",130,14,14.1
+5753,5753,Homestyle Fruit & Nut Granola,57,14,3.6
+5766,5766,Honey & Oat Blenders,121,14,2.9
+5907,5907,Apple Cinnamon Fig Bar,48,14,4.0
+5925,5925,Fruit & Nut Granola Cereal,121,14,5.5
+6001,6001,Morning Vanilla Almond Oat Crunch,121,14,11.7
+6043,6043,Blueberry Vanilla Polar Puffs Cereal,121,14,14.4
+6057,6057,Certified Gluten-Free Oats Natural Oatmeal Packets - 8 CT,121,14,10.7
+6080,6080,Organic High Protein Blueberry Harvest Granola,57,14,12.6
+6091,6091,Oatmeal Squares Hint Of Brown Sugar Cereal,130,14,5.1
+6108,6108,Honey Nut Os,121,14,6.8
+6179,6179,Berries & Cherries Paleo Granola,57,14,14.5
+6187,6187,Raisin Bran Cereal,121,14,5.5
+6213,6213,Kellogg's Corn Flakes Cereal,121,14,8.3
+6227,6227,Farmer's Market Berry Crumble Protein & Fiber Hot Oatmeal,130,14,13.8
+6255,6255,Multi-Grain Cheerios Dark Chocolate Crunch Cereal,121,14,14.0
+6258,6258,Fit Triple Berry Crunch Whole Grain Granola,57,14,2.5
+6275,6275,Simply Maize Cereal,121,14,8.3
+6290,6290,Cranberry Almond Breakfast Bars,48,14,3.2
+6291,6291,Ezekiel 4:9 Flax Sprouted Grain Bread,121,14,4.1
+6303,6303,Raspberry Ginger Clusters & FLakes,121,14,8.6
+6340,6340,Frosted Flakes Cereal,121,14,8.9
+6384,6384,Almond Chia Granola Clusters,57,14,3.3
+6457,6457,Organic Koala Crisp Chocolate Cereal,121,14,4.3
+6548,6548,"Oat Revolution Steel Cut, Maple & brown Sugar",130,14,9.4
+6549,6549,Oat Bran Gluten Free,121,14,14.9
+6552,6552,Crunchy Chocolate Chip Chia Granola & Seed Bars,48,14,4.2
+6638,6638,Organic Brown Rice Crisps Cereal,121,14,11.5
+6702,6702,Hot Cereal Honey,130,14,11.2
+6809,6809,Berry Bunnies Cereal Organic,121,14,7.4
+6826,6826,Organic Maple Whole Grain Oatmeal,130,14,6.2
+6884,6884,Crunchy Honey Roasted Granola,57,14,11.6
+6901,6901,Raisin Bran,121,14,2.9
+6991,6991,Crunchy Oats 'n Honey Granola,48,14,6.1
+7001,7001,"Granola, Homestyle, Double Chocolate Chunk",57,14,10.2
+7107,7107,Fudge Dipped Chocolate Chip Granola Bars,48,14,5.9
+7168,7168,Cereal Cup,121,14,8.7
+7199,7199,Hearty Raisin Cereal,121,14,9.2
+7251,7251,Erewhon Organic 100% Whole Grain Honey Rice Twice Cereal,121,14,9.3
+7264,7264,Organic Whole O's Cereal,121,14,1.9
+7295,7295,Pop-Tarts Frosted Brown Sugar Cinnamon Toaster Pastries,48,14,2.5
+7306,7306,Oats & Peanut Butter Chewy Bars,48,14,9.7
+7309,7309,Frosted Mini Donuts,48,14,9.0
+7458,7458,Buckwheat Pancake & Waffle Whole Grain Mix,130,14,14.4
+7473,7473,Ancient Grain Flakes Cereal,121,14,11.4
+7570,7570,Original Cafe Mix Granola,57,14,7.9
+7596,7596,Creamy Oat Bran Hot Cereal,130,14,5.2
+7795,7795,All-Purpose Gluten Free Baking Mix,130,14,14.8
+7870,7870,Cinnamon Raisin Sprouted Whole Grain Cereal,121,14,6.5
+7881,7881,BelVita Golden Oat Breakfast Biscuit Packets,48,14,10.6
+7911,7911,Organic Fruitful Os Cereal,121,14,8.4
+7930,7930,Apples & Cinnamon Instant Oatmeal,130,14,2.3
+7995,7995,Crunchy Organic Oats & Honey Granola Bars,48,14,13.7
+8202,8202,Berry Blossoms Cereal,121,14,3.4
+8263,8263,Enriched Hominy Quick Grits,130,14,14.1
+8287,8287,Hershey's Cookies 'n' Creme Cereal,121,14,1.8
+8308,8308,Organic High Fiber Pancake & Waffle Mix,130,14,6.3
+8322,8322,Organic Instant Oatmeal Maple and Brown Sugar,130,14,11.4
+8370,8370,Golden Puffs Cereal,121,14,2.5
+8438,8438,Fruit Rings Cereal,121,14,11.7
+8450,8450,"Granola, Organic, Seriously Seedy",57,14,9.7
+8463,8463,Organic Cran-Coconut Granola,57,14,12.5
+8476,8476,Lucky Charms Marshmallow Flavor Treats,48,14,5.0
+8502,8502,Raisin Bran Clusters Cereal,121,14,6.6
+8516,8516,Ancient Grain Granola Cranberry Pecan,57,14,2.0
+8528,8528,Flax Plus Red Berry Crunch Cereal,121,14,3.2
+8553,8553,Jumbo Assortment Cereal,121,14,5.0
+8717,8717,Ezekiel 4:9 Original Sprouted Grain Crunchy Cereal,121,14,11.5
+8823,8823,Lucky Charms Cereal Bars,48,14,3.5
+8869,8869,Original High Fiber Medley Cereal,121,14,7.0
+8895,8895,Buttermilk & Honey Pancake and Waffle Mix,130,14,8.4
+8896,8896,Southern Style White Corn Grits,130,14,12.1
+8952,8952,Multigrain Pancake & Waffle Mix,130,14,6.4
+8995,8995,"Oatmeal, Instant, Banana Maple with Flax",130,14,4.4
+8999,8999,Soft-Baked Cherry Vanilla Cereal Bars,48,14,12.9
+9007,9007,Frosted Flakes,121,14,5.5
+9122,9122,Organic Gluten Free Summer Berries Granola,57,14,5.1
+9162,9162,French Vanilla Almond Granola,121,14,5.0
+9259,9259,Apples & Cinnamon Naturally Flavored Instant Oatmeal,130,14,5.9
+9376,9376,Special K 100 Calorie Blueberry Pastry Crisps,48,14,10.3
+9407,9407,Organic Frosted Blueberry Toaster Pastries,48,14,4.5
+9430,9430,Organic Flax Plus Pumpkin Raisin Crunch Cereal,121,14,2.8
+9451,9451,Flavor Variety Instant Grits,130,14,4.9
+9514,9514,Pancake Puffs Original Belgian Style Gourmet Bites,48,14,11.3
+9521,9521,Organic Whole O's Gluten Free Cereal,121,14,10.7
+9550,9550,Ancient Grain Original Granola,57,14,13.0
+9565,9565,Gluten Free Apple Breakfast Bars,48,14,5.6
+9566,9566,Quinoa Chia Crunch Supergrains Cereal,121,14,11.5
+9605,9605,Reese Puffs,121,14,7.0
+9687,9687,Grain Free Maple Granola,57,14,8.9
+9746,9746,Special Nourish Apple Raspberry Almond Cereal,121,14,2.4
+9911,9911,Organic Qia Apple Cinnamon,121,14,10.4
+9917,9917,"Oatmeal, Thick & Rough",130,14,11.3
+9924,9924,"Irish Instant Oatmeal, Variety Pack",130,14,7.5
+9974,9974,Original Special K Toasted Rice Cereal,121,14,6.8
+10015,10015,Mocha Marble Crunch,121,14,14.4
+10054,10054,Kellogg's Nutri-Grain Apple Cinnamon Cereal,48,14,13.7
+10058,10058,Glazed Honey Buns,48,14,2.9
+10078,10078,Soft Baked Oats and Chocolate Breakfast Biscuits (Cookies),48,14,3.7
+10082,10082,Multigrain Cereal,121,14,6.0
+10129,10129,Swiss Muesli,121,14,9.6
+10161,10161,Instant Oatmeal Apples & Cranberries,130,14,11.0
+10235,10235,Honey Bunches Of Oats Roasted Cereal,121,14,11.8
+10252,10252,BelVita Cranberry Orange Breakfast Bar,48,14,4.1
+10276,10276,Coconut Raisin Granola Bites,57,14,7.0
+10308,10308,Crunchy Granola Raisin Bran,121,14,13.6
+10335,10335,Corn Flakes Cereal,121,14,7.2
+10378,10378,Honey Flake & Oat Clusters,121,14,11.7
+10436,10436,"Granola, Original Honey",57,14,1.1
+10479,10479,Kellogg's Special K Red Berries Cereal,48,14,4.3
+10498,10498,Pancake & Baking Mix,130,14,13.5
+10546,10546,Organic Quick Cooking Oats,130,14,2.5
+10554,10554,Cocoa Crunchies Cereal,121,14,8.0
+10558,10558,Organic Peanut Butter Granola,57,14,14.1
+10560,10560,Cheerios Toasted Whole Grain Cereal,121,14,6.5
+10594,10594,Christmas Crunch,121,14,6.8
+10609,10609,Cereal Granola,57,14,7.0
+10612,10612,Gluten Free Pancake and Baking Mix,130,14,13.9
+10623,10623,Special K Red Berries Crunchy Rice & Wheat Flakes with Strawberries,121,14,9.5
+10639,10639,Morning Energy Chocolatey Almond Crunch Cereal,121,14,8.8
+10653,10653,Frosted Mini Spooners Cereal,121,14,3.5
+10674,10674,Apples & Cinnamon Instant Irish Oatmeal,130,14,7.4
+10698,10698,Rice Crunch-Ems Cereal,121,14,10.8
+10714,10714,Real Medleys Super Grains Maple Pecan Raisin Oatmeal Cup,130,14,1.5
+10729,10729,Gluten Free Special K Touch of Brown Sugar Cereal,121,14,11.3
+10751,10751,Bran Flakes Cereal,121,14,5.8
+10763,10763,Sprouted Khorasan Honey O's,121,14,7.6
+10771,10771,Organic Whole Grain Granola,57,14,14.0
+10904,10904,Original Paleo Krunch Granola,57,14,7.0
+10925,10925,Honey Power O's,121,14,12.1
+10950,10950,Bran Flakes Whole Grain Wheat Cereal,121,14,12.1
+10965,10965,Cinnamon & Maple Flapjack On The Go,130,14,13.7
+10974,10974,Gluten Free Rice & Shine Hot Cereal,130,14,7.5
+11003,11003,Original Recipe Scones Mix,130,14,12.1
+11017,11017,Frosted Confetti Cupcake Pastries,48,14,3.7
+11132,11132,Organic Promise Berry Fruitful Cereal,121,14,6.1
+11154,11154,Corn Pops Cereal,121,14,6.1
+11170,11170,Sweetened Multi-Grain Cereal,121,14,12.5
+11179,11179,Blueberry Fruit & Grain Cereal Bars,48,14,9.7
+11193,11193,Ancient Grain Blueberry Hemp Granola,57,14,5.7
+11208,11208,Cookie Dough Nutrition Bars,48,14,2.9
+11262,11262,Extra Thick Whole Grain Rolled Oats,130,14,11.1
+11477,11477,Ezekiel 4:9 Golden Flax Sprouted Grain Crunchy Cereal,121,14,10.1
+11532,11532,Apple Walnut Delight Oat Clusters,57,14,10.9
+11617,11617,Gluten Free Apple Raisin Walnut Granola,121,14,14.6
+11714,11714,Pop-Tarts Frosted Brown Sugar Cinnamon Pastries,48,14,12.6
+11760,11760,7 Whole Grain Nuggets Cereal,121,14,3.7
+11892,11892,Mixed Berry BelVita Bites,48,14,8.0
+11980,11980,Heritage Flakes Cereal,121,14,10.8
+12016,12016,Organic Bran Flakes Cereal,121,14,7.1
+12029,12029,Unfrosted Strawberry Toaster Pastries,48,14,8.7
+12037,12037,"Granola, Organic, Currant Walnut",121,14,9.4
+12074,12074,Quick Enriched White Hominy Grits,130,14,8.5
+12090,12090,Organic Flaxseed Granola,57,14,8.6
+12132,12132,Gluten Free Apple Cinnamon Oatmeal,130,14,7.1
+12253,12253,90 Calorie Chocolate Chip Cookie,48,14,6.5
+12359,12359,Unsweetened Cinnamon Raisin Muesli,57,14,5.5
+12392,12392,Organic Love Crunch Granola Dark Chocolate & Red Berries,57,14,8.7
+12416,12416,Pebbles Ice Cream Parlor,121,14,6.4
+12532,12532,Raw Mineral Rich Crusts,48,14,10.0
+12543,12543,Coconut Creme Filled Dark Chocolate,48,14,7.5
+12556,12556,Apple Cinnamon Granola Clusters,57,14,10.1
+12598,12598,Light & Fluffy Buttermilk Complete Pancake Mix Family Size,130,14,11.8
+12701,12701,Unfrosted Buncha Blueberries Toaster Pastries 6 Count,48,14,4.6
+12743,12743,Special K Chocolatey Delight Cereal,121,14,1.7
+12758,12758,Power O's Strawberry,121,14,12.1
+12787,12787,Tootie Fruities,121,14,6.6
+12806,12806,French Vanilla Granola,57,14,1.0
+12894,12894,Honey Nut Chex Cereal,121,14,4.4
+12927,12927,Original Muesli Cereal,121,14,7.2
+12941,12941,Morning Oat Crunch,121,14,14.1
+12950,12950,Gluten Free Organic Oat Based Cereal,130,14,9.3
+12951,12951,Fruit and Nut Granola,57,14,8.3
+12984,12984,Trix Cereal,121,14,11.8
+12986,12986,Cinnamon Multigrain Cereal,121,14,3.7
+13032,13032,Cinnamon Toast Crunch,121,14,4.0
+13033,13033,Grape Nut Flakes Cereal,121,14,9.6
+13042,13042,with Crispy Almonds Cereal,121,14,13.2
+13079,13079,Gluten Free Oatmeal Classic with Flax & Chia,130,14,14.1
+13122,13122,Cranberry Walnut Granola,57,14,5.3
+13131,13131,Snack Size! Cinnamon Donuts,48,14,2.4
+13133,13133,Special K Protein Dark Chocolate Granola Bars,48,14,8.6
+13147,13147,GOLEAN Crisp! Toasted Berry Crumble Cereal,121,14,10.6
+13164,13164,Honey Bunches Of Oats With Crispy Almonds Cereal,121,14,9.1
+13239,13239,Organic Irish-Style Oatmeal High Fiber Cereal,130,14,4.6
+13248,13248,Cranberry Apple Crunch Protein Oatmeal,130,14,2.7
+13283,13283,Apples and  Cranberries Instant Oatmeal,130,14,3.9
+13329,13329,Cranberry Almond Granola  Gluten Free,57,14,3.4
+13332,13332,Buttermilk Pancake Mix,130,14,7.4
+13448,13448,Safari Animals Strawberry Instant Oatmeal,130,14,8.4
+13584,13584,Quick One Minute Oatmeal,130,14,8.1
+13594,13594,Good Friends Cereal,121,14,9.2
+13605,13605,Frosted berry Strawberry Toaster Pastries,48,14,2.1
+13650,13650,Maple Nut Hot Oatmeal,130,14,5.2
+13661,13661,Wheat Free Gluten Free Instant Oatmeal Maple Raisin With Flax,130,14,3.5
+13716,13716,Rich Milk Chocolate Complete Nutritional Drink,48,14,12.0
+13755,13755,Instant Oatmeal Maple & Brown Sugar,130,14,12.7
+13763,13763,Organic Baby Cereal Protein-Packed Quinoa 6+Mths,121,14,2.7
+13818,13818,Berry Colossal Crunch Cereal,121,14,6.1
+13917,13917,Organic Snackimals Chocolate Crisp Cereal,121,14,14.9
+13950,13950,Special K Berry Streusel Pastry Crisps,48,14,12.2
+14067,14067,Puffed Corn Cereal,121,14,4.5
+14183,14183,Fruit & Nutty Almonds Raisins Cranberries Pecans Granola,57,14,4.7
+14227,14227,Honey Nut Dream Granola,57,14,9.3
+14274,14274,Quinoa Yogurt Fruit & Nut Granola Bars,48,14,2.7
+14319,14319,Plain Steel Cut Oats,130,14,5.3
+14526,14526,Mixed Berry Fruit & Grain Cereal Bars,48,14,1.2
+14553,14553,Oats & Honey Granola,57,14,11.7
+14811,14811,Healthy Grains Low Fat Banana Nut Clusters,57,14,9.9
+14834,14834,Caramel Crunch Cereal,121,14,9.8
+14861,14861,Chocolate Cereal,121,14,4.8
+14930,14930,Protein Oatmeal Maple Pecan Crunch,130,14,7.2
+15154,15154,Organic Gluten Free Sprouted Corn Flakes,121,14,2.3
+15232,15232,Honey Bunches of Oats Crunchy Honey Roasted Cereal,121,14,8.8
+15241,15241,Original Gourmet Granola,57,14,14.9
+15477,15477,Wheaties,121,14,14.5
+15591,15591,Gluten Free Steel Cut Oats,130,14,8.5
+15608,15608,Hot Strawberry Raspberry Oats,130,14,5.1
+15734,15734,Whole Grain with Vanilla Bunches Cereal,121,14,7.4
+15740,15740,Pumpkin Fig Ancient Grain Granola,57,14,12.1
+15792,15792,Frosted Cherry Toaster Pastries,48,14,5.1
+15865,15865,Maple Pecan Flakes & Clusters Cereal,121,14,3.3
+15924,15924,Frosted S'mores Toaster Pastries,48,14,7.1
+15943,15943,Dark Cacao,121,14,8.3
+15946,15946,7 Grain Hot Cereal,130,14,6.6
+16075,16075,Cinnamon Toast Crunch Cereal,121,14,7.3
+16098,16098,GoLean Creamy All Natural Truly Vanilla Instant Hot Cereal,121,14,7.6
+16200,16200,Oatmeal Cup Cranberry Pumpkin Seed,130,14,8.3
+16233,16233,Gluten Free Cranberry Cinnamon Instant Oatmeal with Flax,130,14,8.8
+16402,16402,Organic Gluten Free Sweetened Rice Flakes Cereal,121,14,14.1
+16403,16403,Puffed Millet Cereal,121,14,8.2
+16497,16497,Quick Cooking Barley Hot Cereal,121,14,13.7
+16511,16511,Nutri-Grain Strawberry,48,14,10.3
+16585,16585,Protein Peanut Butter Crunchy Granola,57,14,2.2
+16598,16598,Gluten Free Mighty Tasty Hot Cereal,130,14,8.5
+16644,16644,Quick 3-Minute Steel Cut Oats,130,14,11.8
+16718,16718,Organic Apple Flax Oatmeal,57,14,1.4
+16720,16720,Pancake & Waffle Mix,130,14,11.7
+16725,16725,Organic Heritage Crunch Cereal,121,14,1.7
+16795,16795,CoCo Wheats Hot Cereal,130,14,6.3
+16867,16867,Raw Pure & Simple Organic Old Fashioned Oats,130,14,6.0
+16987,16987,Organic Love Crunch Dark Chocolate Macaroon Granola,57,14,12.6
+17046,17046,Protein Cranberry Almond Crunchy Granola,57,14,10.7
+17115,17115,Belgian Waffle Mix,130,14,3.4
+17182,17182,Instant Gluten Free Blueberries Strawberries & Brown Sugar Oatmeal,130,14,9.5
+17504,17504,Organic Gluten Free Crispy Rice Peanut Butter Cereal Bars,48,14,7.5
+17518,17518,Apple Cinnamon Cheerios Cereal,121,14,4.2
+17549,17549,Organic Instant Oatmeal,130,14,9.9
+17570,17570,7 Whole Grain Puffs Cereal,121,14,1.2
+17596,17596,Fruity Cheerios Cereal,121,14,11.3
+17681,17681,Puffed Wheat Cereal Cereal,121,14,7.3
+17720,17720,Hot Oatmeal Variety Pack,130,14,8.2
+17750,17750,Organic Gluten Free 6-Grain Ancient Grain Hot Cereal,130,14,1.9
+17845,17845,Blueberry Walnut Organic Flakes and Clusters,121,14,4.7
+17980,17980,Ezekiel 4:9 Sprouted Whole Grain Cereal Almond,121,14,11.3
+17987,17987,Creamy Wheat Hot Cereal,130,14,1.7
+18061,18061,Honey Nut Cheerios Cereal,121,14,9.6
+18089,18089,Giddy Up & Go Granola,57,14,11.0
+18192,18192,"Gluten Free Granola, Nutty Cranberry Maple, Family Value Size",57,14,8.0
+18205,18205,Peanut Butter Gluten Free Breakfast Bars,48,14,13.9
+18219,18219,Frosted Mini-Wheats Strawberry Cereal,121,14,4.4
+18346,18346,90 Calories Low Fat Chocolate Chunk Granola Bars,48,14,7.0
+18352,18352,Flax Plus Organic Pumpkin Flax Granola,57,14,10.2
+18414,18414,Cocoa Pebbles Cereal,121,14,8.9
+18561,18560,Organic Unsweetened High Protein 5 Seed Granola With Apples & Raisins,57,14,13.6
+18575,18574,Organic Honey & Oats Medley Cereal,121,14,14.4
+18598,18597,Crunchy Flax Cereal,121,14,12.5
+18734,18733,Pop-Tarts Frosted Red Velvet Toaster Pastries,48,14,9.2
+18774,18773,"Oats, Apples, Cranberries, and Almond Granola",57,14,12.0
+18856,18855,Great Grains Crunchy Pecans Cereal,121,14,4.4
+18941,18940,Donettes Crunch Mini Donuts,48,14,12.0
+18984,18983,Gluten Free Pancake Batter,130,14,14.1
+19037,19036,Gluten-Free Rainforest Banana Nut Granola,57,14,9.2
+19133,19132,Trail Mix Chewy Granola Bars Dark Chocolate & Nut,48,14,13.5
+19135,19134,Crunchy Variety Pack Granola,48,14,11.3
+19148,19147,Honey Nut Granola With Almonds Cartons,57,14,2.3
+19185,19184,Apples & Mangoes Fruit Bars,48,14,4.0
+19197,19196,Honey Bunches of Oats Cereal with Pecan,121,14,8.6
+19205,19204,Organic Heritage Flakes Cereal,121,14,1.9
+19229,19228,Belvita Soft Baked Mixed Berry,48,14,10.9
+19265,19264,"Fruit, Nut & Fiber Muesli",121,14,5.4
+19273,19272,Veganic Sprouted Brown Rice Cacao Crisps,121,14,5.1
+19286,19285,Skinner's Raisin Bran Cereal,121,14,2.9
+19310,19309,Simply Granola Oats Honey Almond Cereal,57,14,9.7
+19360,19359,Honey Breakfast Biscuits,48,14,14.2
+19377,19376,Gluten Free Crunchy Vanilla Cereal,121,14,14.6
+19455,19454,All-Bran Buds Cereal,121,14,9.6
+19527,19526,Steel Cut Apple Pear Pecan Flavor Instant Oatmeal,130,14,1.1
+19531,19530,Raisins & Spice Instant Oatmeal,130,14,9.8
+19554,19553,Raw Breakfast Crusts,48,14,14.1
+19609,19608,"Nutri Grain Fruit & Nut Chewy Breakfast Bars, Blueberry Almond",121,14,2.5
+19643,19642,Granola Cinnamon Raisin,57,14,11.6
+19645,19644,Disney Pixar Finding Dory Cereal,121,14,7.9
+19726,19725,Hemp Plus Instant Hot Oatmeal,130,14,11.3
+19768,19767,Old Fashioned Oatmeal,130,14,11.0
+19814,19813,Warm & Crunchy Honey Almond Granola,130,14,7.4
+19841,19840,Pop-Tarts Frosted Cookies & Creme Toaster Pastries,48,14,6.3
+19889,19888,Nutri-Grain Cherry Cereal Bars,48,14,14.2
+19964,19963,Instant Pro Banana Nut Oatmeal,130,14,14.1
+19988,19987,Breakfast Raspberry Chia Bars,48,14,9.2
+20107,20106,Peanut Butter Puffs,121,14,12.1
+20192,20191,General Mills Multi-Grain,121,14,3.9
+20219,20218,"Pancake & Waffle Mix, Six Grain Cinnamon",130,14,4.5
+20234,20233,Peach Chia Vanilla Oatmeal Fruit Squeeze Pouch,121,14,1.4
+20285,20284,Honey Nut Toasted Oats Cereal,121,14,10.5
+20289,20288,Swedish Pancake Mix,130,14,2.1
+20303,20302,Quick Oats,130,14,11.1
+20317,20316,Flax Plus Maple Pecan Crunch Cereal,121,14,4.1
+20347,20346,Wild Cherry Organic Juice Beverage,57,14,2.3
+20398,20397,Organic Peanut Butter Chocolate Chip Granola,48,14,4.2
+20461,20460,Organic Quick Cooking Rolled Oats,130,14,8.4
+20513,20512,Original Cereal,121,14,4.4
+20553,20552,"Cereal, Sprouted Oat, Honey O's",121,14,6.5
+20642,20641,Pop Tarts Variety Pack,48,14,8.2
+20677,20676,Protein Pancake Mix,130,14,8.5
+20706,20705,Buttermilk Pancake & Waffle Mix,130,14,8.3
+20716,20715,Honey Bunches Of Oats Chocolate Gluten Free Cereal,121,14,2.5
+20720,20719,Honey Nut Scooters Cereal,121,14,4.0
+20804,20803,Whole Grain 10 Grain Hot Cereal,130,14,7.3
+20872,20871,Real Medleys Cherry Almond Pecan Multigrain Cereal,121,14,14.6
+20880,20879,"Granola, Peanut Butter, Homestyle",57,14,11.7
+20956,20955,Cereal,121,14,10.0
+21110,21109,"Pancake & Waffle Mix, Chocolate Chip",130,14,4.4
+21126,21125,Organic Coconut Chia Granola,121,14,7.9
+21174,21173,Cereals Honey Nut Toasty O's,121,14,2.7
+21211,21210,Cluster Blend Cashew White Peach Granola,57,14,13.7
+21226,21225,Honey Bunches With Almonds Cereal,121,14,1.8
+21236,21235,Simply Buttermilk Pancake & Waffle Mix,130,14,13.7
+21352,21351,Nutri-Grain Soft Baked Strawberry Cereal Breakfast Bars,48,14,8.7
+21360,21359,Regular Instant Irish Oatmeal,130,14,1.9
+21507,21506,Organic Raisin Bran Cereal,121,14,3.9
+21514,21513,Heart to Heart Honey Toasted Oat Cereal,121,14,8.8
+21515,21514,Oatmeal Bread,121,14,11.9
+21544,21543,Organic Quick Oats,130,14,3.6
+21568,21567,Blueberry Almond Breakfast Bars,48,14,3.5
+21608,21607,Gluten Free Vanilla Granola,57,14,3.5
+21627,21626,Organic Cinnamon Raisin Granola,57,14,1.5
+21664,21663,Coco Crunch Sprouted Granola,57,14,5.3
+21717,21716,Organic Green Berry Blast Cereal,121,14,5.7
+21730,21729,Mountain Blend Granola,57,14,3.8
+21778,21777,Maple Quinoa Cluster With Chia Seeds,57,14,14.8
+21818,21817,Soft and Chewy Banana Nut Granola,57,14,6.3
+21838,21837,Pop-Tarts Frosted Blue Raspberry Toaster Pastries,48,14,4.4
+21886,21885,Organic Flax Plus Cinnamon Cereal,121,14,7.3
+21912,21911,Oat Medley Cereal,121,14,7.0
+22013,22012,Apples & Cinnamon Steel Cut Oats With Flax,130,14,9.9
+22054,22053,Fruity Pebbles Rice Cereal,121,14,4.7
+22069,22068,VelVita Soft Baked Peanut Butter Biscuit,48,14,13.1
+22080,22079,Kellogg's Pop-Tarts Frosted Chocolate Chip Cookie Dough Pastries,48,14,12.4
+22166,22165,Chewy Reduced Sugar Granola Bars Variety Pack,48,14,12.1
+22207,22206,Multi Grain Cheerios Cereal,121,14,5.7
+22300,22299,Kix Honey Cereal,121,14,14.9
+22338,22337,Great Grains,121,14,11.0
+22355,22354,"Cereal, Supergrains, Maple Buckwheat Hemp",121,14,9.8
+22364,22363,Corn Pops Family Size Cereal,121,14,8.7
+22367,22366,Raisin Bran Crunch Family Size Cereal,121,14,12.3
+22443,22442,"Farmhouse, Pancake & Waffle Mix",130,14,5.4
+22591,22590,Backpacker Chewy Oatmeal Bites Smore,48,14,14.1
+22599,22598,Kellogg's Nutri-Grain Blueberry Cereal,48,14,1.8
+22642,22641,Peach Almond Vanilla Oat Cereal,130,14,2.1
+22740,22739,Organic Stoneground Flakes Purple Corn Cereal,121,14,10.2
+22810,22809,Honey Clusters Cereal,121,14,5.2
+22949,22948,Strawberry Cheesecake Bar,48,14,11.3
+22980,22979,Organic Cinnamon Flax Sprouted Oat Granola,57,14,14.8
+22984,22983,"Ocean Beach Almond Butter, Coffee, TCHO Cocoa Nibs Granola Bar",57,14,9.4
+22991,22990,Organic Gracious Granola,57,14,14.9
+23051,23050,Natural High Fiber Oat Bran Cereal,130,14,5.9
+23073,23072,Granola Banana Nut,57,14,2.1
+23118,23117,Enriched Farina Hot Cereal,130,14,11.4
+23135,23134,Organic Vanilla Almond Chia Vitality Granola Clusters,57,14,5.3
+23138,23137,Oat & Ancient Grain Cereal,121,14,12.6
+23263,23262,Unfrosted Strawberry Pop Tarts,48,14,13.1
+23271,23270,Organic Corn Flakes Cereal Fruit Juice Sweetened,121,14,7.6
+23457,23456,Almond Crunch,121,14,2.4
+23460,23459,Ancient Grain Mango Almond Muesli,121,14,8.6
+23534,23533,All-Natural 100% Whole Grain 5 Grain Cereal,130,14,14.9
+23638,23637,Maple & Brown Sugar High Fiber Instant Oatmeal,130,14,10.8
+23707,23706,Cranberry Almond Granola Clusters,57,14,14.3
+23779,23778,Pop-Tarts Frosted Chocolate Chip,48,14,11.1
+23801,23800,Whole Grain Cereal,121,14,6.2
+23807,23806,Coconut Flakes Cereal,121,14,1.1
+23871,23870,Cacao Granola,57,14,5.0
+23894,23893,Original Perky's Crunchy Rice Cereal,121,14,6.8
+23953,23952,EnviroKidz Chocolate Choco Chimps,121,14,5.4
+23984,23983,Sprinkled Donut Crunch Cereal,121,14,12.1
+24023,24022,Frosted Krispies Sweetened Toasted Rice Cereal,121,14,9.2
+24051,24050,Day Break Cranberry Almond Bars,48,14,4.8
+24140,24139,Gluten Free Strawberry Toaster Pastry,48,14,1.8
+24152,24151,Bearly Processed Sea Salt Caramel Apple Granola,121,14,8.7
+24218,24217,Golden Oat Breakfast Biscuits,48,14,10.4
+24254,24253,Go Lean Cereal,121,14,2.8
+24257,24256,Nut & Honey Snack Granola,57,14,13.5
+24276,24275,Golean Vanilla Graham Clusters Cereal,121,14,5.9
+24290,24289,Instant Oatmeal Peaches & Cream,130,14,9.1
+24321,24320,Vanilla Almond,121,14,1.3
+24358,24357,Blue Beary Flax Granola,57,14,1.8
+24421,24420,Gluten Free Steel Cut Oats Hot Cereal,130,14,9.0
+24574,24573,Brown Sugar Cinnamon Pastry Crisps,48,14,8.6
+24625,24624,Special K Fruit & Nut Protein Mix,121,14,14.7
+24639,24638,Premium Steel Cut Oats,130,14,11.5
+24649,24648,Irish Oatmeal,130,14,6.2
+24671,24670,Organic Love Crunch Granola Apple Crumble,57,14,8.1
+24726,24725,Organic Chocolate O's Cereal,121,14,10.0
+24775,24774,Hot Cereal,130,14,13.6
+24791,24790,Real Medleys Dark Chocolate Cranberry Almond Granola Cereal,121,14,2.1
+24792,24791,Soft'ees Family Pack Assorted with Frosted Donuts,48,14,5.3
+24799,24798,Fiber One Nutty Clusters & Almonds Cereal,121,14,5.7
+24833,24832,Kellogg's Special K Chocolate Almond Cereal,121,14,1.5
+24847,24846,Sweet & Fruity Cranberry Granola,57,14,9.0
+24867,24866,Apple Blueberry Granola,57,14,8.9
+24928,24927,Baked Oat Bites Cereal,121,14,13.4
+24950,24949,Perky's Crunchy Flax Cereal with Chia,121,14,2.0
+24962,24961,Old Fashioned Smooth & Creamy Grits,130,14,9.5
+25044,25043,Instant Oatmeal Variety Pack,130,14,13.5
+25154,25153,Cranberry Nut Goodness Granola,57,14,11.8
+25233,25232,Lucky Charms Cereal,121,14,7.7
+25299,25298,Instant Maple Brown Sugar Hot Cereal,130,14,13.2
+25386,25385,Kiss My Oats Granola,130,14,10.7
+25397,25396,Dark Mocha Almond Chewy Granola Bars,48,14,5.2
+25416,25415,Honey Crisp,121,14,9.9
+25423,25422,Peanut Butter Crunch Cereal,121,14,12.6
+25553,25552,Organic Steel Cut Oats,130,14,13.7
+25631,25630,Healthy Grains Fiber Cinnamon Oat Clusters,57,14,11.5
+25642,25641,Organic Chocolate Hazelnut Fig Granola,57,14,2.0
+25666,25665,Quick Cooking Rolled Oats,130,14,6.9
+25692,25691,Original Life Cereal,121,14,14.4
+25768,25767,Organic Multi Grain Squares Cereal,121,14,10.7
+25785,25784,All-Natural Scottish-Style Porridge Oats High Fiber Cereal,130,14,8.1
+25840,25839,Froot Loops Cereal,121,14,13.7
+25852,25851,Almond Cereal,48,14,12.3
+25894,25893,Original Pancake & Waffle Mix,130,14,1.6
+25907,25906,Paleo Granola Cinnamon Crunch,57,14,4.8
+25937,25936,EnviroKidz Gluten Free & Wheat Free Gorilla Munch Corn Puff Cereal,121,14,3.4
+25968,25967,Original Multigrain Cereal,121,14,3.3
+25981,25980,Organic Gluten Free Pancake & Baking Mix,130,14,14.6
+26095,26094,Krave Cereal Chocolate,121,14,5.2
+26096,26095,Organic Gluten Free Corn Flakes,121,14,1.9
+26099,26098,Organic Gluten Free Hi-Protein Pancake & Baking Mix,130,14,3.9
+26130,26129,Steel Cut Cranberry Vanilla Almond Flavor Instant Oatmeal,130,14,4.1
+26178,26177,Organic Honey Nut O's Cereal,121,14,5.0
+26187,26186,Gluten Free Original Instant Oatmeal,130,14,13.8
+26216,26215,Quick Oats Hot Cereal,130,14,4.4
+26233,26232,Original Big Biscuit Cereal,121,14,3.1
+26249,26248,Classic Pancakes,130,14,8.3
+26289,26288,Coconut Cranberry Almond Cereal,121,14,4.5
+26320,26319,"Cereal, Puffed Rice",121,14,2.9
+26423,26422,Maple Pecan Granola,57,14,4.5
+26432,26431,Organic Frosted Maple Brown Sugar Toaster Pastries,48,14,12.0
+26537,26536,with Sweet Cinnamon Bunches Cereal,121,14,2.5
+26548,26547,Froot Loops Cereal Single Serve,121,14,2.8
+26620,26619,"Granola, Immortal, Chocolate Almond",57,14,1.5
+26640,26639,Organic Black Chia Seeds,57,14,6.1
+26782,26781,Frosted Cinnamon Roll Toaster Pastries,48,14,10.4
+26807,26806,Oat Revolution Classic Steel Cut Oats with Flax,130,14,10.3
+26833,26831,Frosted Chocolate Fudge Pop-Tarts,48,14,9.0
+26834,26832,The Lola Granola Bar,57,14,5.5
+26838,26836,Kelloggs Special K Protein Cinnamon Brown Sugar Crunch,121,14,10.4
+26865,26863,Original Frosted Mini Wheats Little Bites,121,14,6.7
+26876,26874,All Natural Crunchy O's Cereal,121,14,7.0
+27001,26999,Kellogg's Poptarts Frosted Cookies & Creme Toaster Pastries,48,14,6.0
+27009,27007,Fruit & Cream Variety Pack Instant Oatmeal,57,14,5.9
+27029,27027,Original Spoon Size Shredded Wheat Cereal,121,14,1.9
+27039,27037,Kellogg's Pop-Tarts Frosted S'mores Pastries,48,14,2.7
+27050,27048,Radient Raspberry Superfood Cereal,121,14,6.0
+27073,27071,Fruity Dyno Bites Cereal,121,14,2.5
+27104,27102,BelVita Blueberry Breakfast Biscuit Packs,48,14,6.2
+27115,27113,Wild Berry Low Fat Clusters & Flakes,121,14,4.0
+27248,27246,Big Chewy Chocolate Chip Granola,48,14,4.5
+27268,27266,Organic 7 Grain Pancake & Waffle Mix,130,14,1.2
+27275,27273,Mueslix Cereal,121,14,8.3
+27286,27284,Organic Fruit and Nut Granola Cereal,57,14,3.4
+27330,27328,Organic Quinoa Cacao Sprouted Oat Granola,57,14,11.1
+27407,27405,Mexican Mix Granola,57,14,5.0
+27442,27440,Honey Smacks Sweetened Puffed Wheat Cereal,121,14,6.7
+27611,27609,Natural Sweetened Wheat-Fuls Cereal,121,14,5.8
+27665,27663,GOLEAN Crunch! Cereal,121,14,4.5
+27673,27671,"Granola, Original, Almond Pecan",57,14,5.7
+27683,27681,Lower Sugar Instant Oatmeal  Variety,130,14,3.5
+27705,27703,Organic Quick Oven Toasted Oats,130,14,14.8
+27722,27720,Krave S'mores Cereal,121,14,10.1
+27730,27728,Instant Rolled Oats Whole Grain,130,14,12.8
+27763,27761,Oats & Chocolate Chewy Bars,48,14,12.2
+27804,27802,Fruit Flax & Nuts Oatmeal,130,14,2.8
+27868,27866,Gluten Free Pumpkin Fig Ancient Grain Granola + Puffs Cereal,121,14,14.9
+27888,27886,Pop-Tarts Frosted Blueberry Toaster Pastries,48,14,12.8
+27989,27987,Oatmeal Raisin Nut Baked Granola Cereal Bars,48,14,2.2
+28017,28015,Frontier Buttermilk and Honey Flapjack and Waffle Mix,130,14,1.1
+28030,28028,Farmhouse Pancake & Waffle Mix,130,14,4.4
+28091,28089,Rolled Hot Cereal 5 Grain,130,14,11.1
+28112,28110,General Mills Basic 4 Cereal,121,14,4.0
+28134,28132,Heart to Heart Organic Oat Flakes & Blueberry Clusters Cereal,121,14,14.3
+28142,28140,Gluten Free Pantry Fluffy Pancake Mix,130,14,4.5
+28219,28217,Crispy Cocoa Rice,121,14,8.6
+28381,28379,Protein Chewy Bars Salted Caramel Nut,48,14,4.4
+28399,28397,Blueberry Cobbler,48,14,3.8
+28402,28400,Oat Fit Cinnamon Roll Instant Oatmeal,130,14,13.9
+28456,28454,Sweetened Corn & Oat Cereal,121,14,13.9
+28461,28459,Golden Grahams Cereal,121,14,13.0
+28541,28539,Complete Pancake & Waffle Mix,130,14,4.9
+28552,28550,Apple Cinnamon With Flax Instant Oatmeal,130,14,12.7
+28568,28566,Oatmeal Traditional,130,14,1.7
+28601,28599,Flavor Variety Instant Oatmeal,130,14,1.6
+28626,28624,Gluten Free Pantry Pancake Instant Baking Mix,130,14,6.8
+28629,28627,Veganic Sprouted Red Fife Raisin Bran,121,14,8.0
+28785,28783,Real Medleys Cherry Pistachio Multigrain Fruit & Nut Bars,48,14,7.0
+28820,28818,Hot Oatmeal Multigrain Raisin,130,14,10.3
+28831,28829,Kellogg's Pop-Tarts Frosted Strawberry Pastries,48,14,7.0
+28863,28861,Gluten Free Maple Brown Sugar Oatmeal,130,14,6.5
+28891,28889,Strawberry Vanilla Splendor Granola,57,14,5.4
+28913,28911,Buttermilk Complete Pancake & Waffle Mix,130,14,12.4
+28931,28929,Original Low Fat Granola Cereal,57,14,7.1
+28933,28931,Honey Bunches of Oats Honey Roasted Cereal,121,14,7.2
+28969,28967,Cinnamon PaleoKrunch Granola,121,14,5.2
+29017,29015,Honey Bunches of Oats Roasted Oats,121,14,10.2
+29083,29081,Special K Cookies & Crème Pastry Crisps,48,14,14.2
+29094,29092,Organic Hearty Morning Fiber Cereal,121,14,10.8
+29282,29280,Breakfast On The Go! Berry Nut Blend Nut & Granola Mix,57,14,9.4
+29283,29281,Natural Atrisan Granola Original,57,14,5.5
+29324,29322,Berries & Cherries Muesli,121,14,8.5
+29365,29363,Cinnamon Cereal,121,14,10.5
+29431,29429,Crunch Berries Cereal,121,14,2.8
+29487,29485,Complete Original Pancake Mix,130,14,6.6
+29530,29528,Honey & Almonds Instant Oatmeal,130,14,14.6
+29648,29646,Sweet & Salty Nut Peanut Granola Bars,48,14,6.0
+29662,29660,"Frosted Toaster Pastries, Cherry Pomegran",48,14,6.5
+29688,29686,EnviroKidz Glute Free & Wheat Free Chocolate Crispy Rice Bars,48,14,1.5
+29689,29687,Cereals Simply Delicious Muesli A Classic Muesli,121,14,1.4
+29744,29742,Organic Toaster Pastries Frosted Lotta Chocolotta - 6 CT,48,14,10.9
+29754,29752,Gluten Free Foods Granola,57,14,14.1
+29837,29835,Post Selects Banana Nut Crunch,121,14,6.3
+29910,29908,Power Cakes Flapjack and Waffle Mix,130,14,4.5
+29944,29942,Gluten Free Oatmeal Apple Pieces and Cinnamon with Flax & Chia,130,14,7.3
+29957,29955,Certified Organic Pure Maple Sugar,130,14,5.2
+30068,30066,Classic Granola,57,14,2.2
+30106,30104,Bumpers Peanut Butter Cereal,121,14,6.8
+30159,30157,Bisquick Heart Smart Pancake & Baking Mix,130,14,13.6
+30174,30172,Buttermilk Biscuit Mix,130,14,11.2
+30185,30183,Quaker Life Cinnamon Cereal,121,14,3.3
+30201,30199,Organic Flip for Flapjacks Pancake Mix,130,14,3.6
+30220,30218,Peanut Butter Granola Bar,48,14,2.4
+30266,30264,Apple Pie Instant Oatmeal,130,14,4.6
+30278,30276,Power O's Toasted Cereal Original,121,14,11.1
+30303,30301,Coco Roos Cereal,121,14,9.6
+30325,30323,Apple Cinnamon Hot Oatmeal,130,14,7.8
+30342,30340,Oatmeal Squares Brown Sugar,121,14,4.0
+30437,30435,Apple Dapples Cereal,121,14,6.8
+30593,30591,Cinnamon Brown Sugar Breakfast Biscuits,48,14,2.3
+30595,30593,Frosted Cherry Pop-Tarts Toaster Pastries,48,14,13.2
+30616,30614,Organic Qia Superfood Breakfast Cereal,121,14,1.8
+30663,30661,Lower Sugar Maple & Brown Sugar Instant Oatmeal,130,14,3.4
+30685,30683,Puffins Peanut Butter & Chocolate Cereal,121,14,11.2
+30703,30701,Sweet & Salty Nut Chocolate Pretzel Nut Granola Bars,48,14,4.1
+30729,30727,Vanilla Almond Fit Granola,57,14,9.8
+30821,30819,Muesli Cereal,121,14,6.2
+30838,30836,Organic Belgian Pancake And Waffle Mix,130,14,13.2
+30881,30879,Marshmallow Mateys Cereal,121,14,12.8
+30886,30884,Island Vanilla Cereal,121,14,7.4
+30969,30967,Organic Frosted Flakes Cereal,121,14,3.3
+31017,31015,Old Country Style Muesli Cereal,130,14,8.1
+31043,31041,Envirokidz Chocolate Koala Crisp,121,14,6.4
+31098,31096,Gluten Free Nutty Cranberry Maple Granola,57,14,13.1
+31141,31139,Chocolate Granola Cereal,57,14,1.6
+31154,31152,Honey Sunshine Cereal,121,14,12.2
+31174,31172,Old Fashioned Oat Bran Hot Cereal,130,14,4.3
+31200,31198,Mixed Berry Almond Gluten Free Chex Granola Mix,121,14,3.4
+31214,31212,Organic Cranberry Almond Granola Clusters,57,14,1.2
+31228,31226,Organic Original Instant Oatmeal,130,14,3.6
+31273,31271,Gluten Free Strawberry Brown Sugar with Flax Instant Oatmeal,130,14,3.5
+31279,31277,Rice Puffs Cereal,121,14,5.9
+31312,31310,Chocolate Coated Coconut Protein Bar,48,14,4.0
+31385,31383,"Cereal, Superfood, Hemp & Greens",121,14,11.5
+31391,31389,Pistachio Granola,57,14,1.8
+31405,31403,Raisin Bran with Cranberries Cereal,121,14,10.8
+31416,31414,Cinnamon Crunch,121,14,10.0
+31435,31433,Organic Cinnamon Crunch Cereal,121,14,7.6
+31474,31472,Chocolate Banana Granola Mix,57,14,2.9
+31521,31519,Gluten Free Strawberry Breakfast Bars,48,14,8.9
+31558,31556,Banana Nut Cereal,121,14,12.6
+31604,31602,Steel Cut Oatmeal Blueberries and Cranberries,130,14,6.0
+31636,31634,Brown Sugar Maple Oatmeal with Ancient Grains,130,14,8.6
+31642,31640,Original Puffins Cereal,121,14,10.7
+31665,31663,Vanilla Blueberry Clusters With Flax Seeds Granola,57,14,4.9
+31672,31670,Buttermilk Complete Pancake Mix,130,14,8.3
+31755,31753,Blueberry Pancake & Waffle Mix,130,14,11.8
+31761,31759,Cherrios Honey Nut,121,14,2.7
+31762,31760,Crunchy Nut Golden Honey Nut Flakes Cereal,121,14,4.1
+31887,31885,Organic Chewy Blueberry Almond Granola & Seed Bars,48,14,13.5
+31912,31910,"Steel Cut Oats with Currants, Flax and Chia",130,14,13.4
+31934,31932,"Protein & Fiber Madagascar Vanilla, Almonds & Pecans Hot Oatmeal",130,14,1.0
+31990,31988,Oatmeal Square Banana Dark Chocolate,48,14,1.8
+32073,32071,Cereal Comet Crispies,121,14,4.8
+32142,32140,Organic Maple Cinnamon Waffles,57,14,8.9
+32169,32167,Oats 'N Dark Chocolate Protein Granola,57,14,11.6
+32281,32279,"Rolled Oats, Old Fashioned",130,14,3.2
+32286,32284,Vanilla Almond Pecan Oatmeal Bowl,130,14,10.1
+32328,32326,Variety Pack Cereal,121,14,4.0
+32375,32373,Apple Cinnamon Pecan Oatmeal Cup,130,14,11.7
+32425,32423,Chocolate Delight Granola,57,14,4.0
+32438,32436,Original Granola,57,14,3.9
+32537,32535,Maple Brown Sugar Squarefuls Cereal,121,14,9.9
+32546,32544,Corn Chex Gluten Free,121,14,11.8
+32581,32579,Organic Promise Autumn Wheat Cereal,121,14,5.8
+32622,32620,Powdered Sugar Mini Donuts,48,14,1.4
+32629,32627,Cereals Super Cranberry Cherry & Almond Muesli Fruity & Tangy With Almonds,121,14,10.3
+32650,32648,Gluten Free Honey Almond Granola,57,14,2.4
+32685,32683,Oats Select Starts Gluten Free Quick 1-Minute,130,14,3.1
+32707,32705,Gluten Free Oatmeal Brown Sugar and Maple with Flax & Chia,130,14,2.1
+32728,32726,Cranberry Gourmet Granola,57,14,14.7
+32764,32762,Nutri-Grain Soft Baked Mixed Berry Cereal Breakfast Bars,48,14,11.7
+32783,32781,Gluten Free Sunrise Crunchy Maple Cereal,121,14,12.6
+32863,32861,Organic Instant Oatmeal Light Maple Brown Sugar,130,14,1.6
+32892,32890,Greek Yogurt Mixed Berry Protein Chewy Bars,48,14,14.9
+32894,32892,"Muesli, Ancient Grain, Cranberry Cashew",121,14,6.5
+32944,32942,Frontier Whole Wheat Oat & Honey Flapjack and Waffle Mix,130,14,5.6
+32947,32945,Renola Cocoa Coconut Fruit Nut and Seed Mix,57,14,3.7
+32960,32958,Frosted Flakes Cereal Single Serve,121,14,1.7
+33060,33058,Organic Strawberry Cobbler Cereal Bars,48,14,2.8
+33070,33068,Qi'a Chia Cranberry Vanilla Buckwheat And Hemp Cereal,121,14,6.2
+33080,33078,Frosted Mini-Wheats Touch of Fruit Raspberry Cereal,121,14,5.3
+33232,33230,Gluten Free Extreme Fruit & Nut Granola,57,14,8.4
+33333,33331,Cinnamon Toast Crunch Crispy Sweetened Whole Wheat & Rice Cereal,121,14,3.8
+33390,33388,Gluten Free Baking and Pancake Mix,130,14,4.6
+33451,33449,Simply Delicious Gluten Free Cereal Cocoa Sensation,121,14,2.6
+33462,33460,Real Medleys Super Grains Banana Walnut Oatmeal Cup,130,14,3.0
+33554,33552,Real Medleys Peach Almond Oatmeal,130,14,9.2
+33565,33563,Oatmeal to Go Brown Sugar Cinnamon,48,14,13.4
+33592,33590,No Sugar Added Muesli Cereal,121,14,2.8
+33647,33645,Tasteeos Cereal,121,14,2.3
+33688,33686,Qi'a Gluten Free Oatmeal Creamy Coconut,130,14,6.8
+33747,33745,Oats and Honey Protein Crunchy Granola,57,14,2.5
+33816,33814,Homestyle Oatmeal,130,14,8.1
+33853,33851,Organic Steel Cut Oats Hot Cereal,130,14,10.5
+33876,33874,Fruit & Cream Instant Oatmeal Variety Pack,130,14,5.8
+34021,34019,Organic Buckwheat Pancake & Waffle Mix,130,14,7.2
+34029,34027,Crispix Rice & Corn Cereal,121,14,5.9
+34081,34079,Oatmeal Blueberry & Hazelnut Cup,130,14,9.6
+34084,34082,Chia Seed,57,14,2.3
+34146,34144,Whole Grain Buttermilk Pancake & Waffle Mix,130,14,12.8
+34175,34173,Simply Pure Chia Hot Cereal Blend,130,14,10.6
+34249,34247,Real Medleys Blueberry Hazelnut Oatmeal,130,14,7.7
+34305,34303,Blueberry Banana Walnut Hot Oats,130,14,2.1
+34309,34307,Special K Chocolatey Strawberry Cereal,121,14,7.1
+34324,34322,Nourish Multi-Grain Maple Brown Sugar Crunch Hot Cereal,130,14,13.4
+34380,34378,Cinnamon Granola Crunch,57,14,2.5
+34411,34409,Organic Quinoa & Apple Baby Cereal,121,14,6.3
+34471,34469,Oat Bran,130,14,5.2
+34490,34488,Savory Blend Handmade Granola,57,14,11.1
+34505,34503,Grape-Nuts Cereal,121,14,14.0
+34550,34548,Instant Oatmeal Golden & Brown Raisins with Almonds,130,14,14.1
+34567,34565,Peanut Butter Whole Grain Clusters,57,14,12.1
+34659,34657,Cinnamon Crunch Snackimals Cereal,121,14,3.1
+34668,34666,Gluten Free & Non-Dairy Pancake And Waffle Mix,130,14,10.5
+34721,34719,Flax & Chia Oatmeal,130,14,7.5
+34757,34755,Maple Pecan,121,14,7.9
+34816,34814,10 Grain Pancake & Waffle Mix,130,14,7.0
+34853,34851,Strawberry Fig Bars,48,14,8.5
+34989,34987,Blueberry Granola,121,14,5.4
+35010,35008,Disney Frozen Cereal,121,14,8.3
+35083,35081,Eco Pac Organic Corn Puffs,121,14,9.0
+35158,35156,Oat Revolution! Maple & Brown Sugar Instant Oatmeal,130,14,2.0
+35195,35193,"Post Selects Great Grains Cereal Raisins, Dates and Pecans",121,14,2.9
+35252,35250,Gluten-Free Cranberry Apple with Walnut & Cinnamon Instant Oatmeal,130,14,14.6
+35287,35285,Gluten-Free Steel Cut Oats,130,14,11.8
+35308,35306,Gluten Free Organic Peanut Butter & Chocolate Cereal,121,14,6.8
+35309,35306,Gluten Free Organic Peanut Butter & Chocolate Cereal,121,14,6.8
+35356,35353,Dino Eggs Instant Oatmeal,130,14,5.2
+35403,35400,Gluten Free Baking & Packing Mix,130,14,1.3
+35510,35506,Brown Sugar and Cinnamon Steel Cut Quick Oatmeal,130,14,10.2
+35563,35559,Kellogg's Chocolatey Peanut Butter Granola Bars,48,14,12.7
+35570,35566,Stoneground Cinnamon Cluster Cereal Flakes,121,14,10.6
+35572,35568,Soft Baked Granola,57,14,14.0
+35576,35572,Blueberry Walnut Granola,57,14,1.5
+35598,35594,Organic Hemp Plus Granola Cereal,57,14,13.6
+35623,35619,Corn Chex Cereal,121,14,13.8
+35692,35688,Cocoa Bunnies Whole Grain Cereal,121,14,12.1
+35698,35694,Sweet Potato Pancake & Waffle Mix,130,14,7.1
+35699,35695,Maple & Brown Sugar Instant Oatmeal,130,14,11.7
+35728,35724,Honey Nut Crunch Cereal,121,14,8.5
+35747,35743,Golean Crisp! Cinnamon Crumble Cereal,121,14,5.5
+35758,35754,Vanilla Cherry Pecan Muesli,57,14,8.8
+35790,35786,"Raisin, Date & Walnut Instant Oatmeal",130,14,8.3
+35847,35843,Gluten Free Quinoa Rice & Shine Hot Cereal,130,14,7.8
+35897,35893,"Organic Cherry, Chia, and Vanilla Granola",57,14,3.5
+35905,35901,Extra Light & Fluffy Pancake & Waffle Mix,130,14,13.1
+36101,36097,"Cereal, Superfood, Cacao Crunch",121,14,7.2
+36152,36148,Organic Oat Bran Flakes,121,14,2.9
+36271,36267,Gluten Free Cinnamon Heaven Cereal,121,14,6.4
+36292,36288,Low Fat Vanilla Cereal,121,14,8.7
+36298,36294,Paleo Granola,57,14,6.5
+36366,36362,"Baked Crackers, Cheddar Cheese",48,14,3.7
+36377,36373,Gluten Free Chocolate Chip Pancake Mix,130,14,5.5
+36378,36374,Vanilla Pecan Granola,57,14,3.0
+36432,36428,Organic Promise Cranberry Spelt & Flax Granola,121,14,12.2
+36476,36472,Nutri Grain Bars Multi Pack,48,14,3.4
+36485,36481,Organic Gluten Free Maple Buckwheat Flakes,121,14,9.2
+36588,36584,Renola Berry Fruit Nut & Seed Mix,57,14,6.6
+36590,36586,Veganic Sprouted Ancient Grain O's,121,14,9.3
+36616,36612,Original Wheat Berry Flakes,121,14,4.5
+36727,36723,Oat Bran Hot Cereal,130,14,5.6
+36773,36769,"Granola, Organic, Original",57,14,3.6
+36814,36810,Original Pancake and Baking Mix,130,14,6.5
+36836,36832,"Yellow Corn Grits, Organic",130,14,9.4
+36852,36848,Gluten Free Quick Cooking Oats,130,14,9.0
+36897,36893,Irish Steel Cut Oatmeal,130,14,6.4
+36915,36911,Cranberry Granola Fruit Clusters,57,14,7.4
+36956,36952,Granola Cereal,121,14,5.9
+36998,36994,Organic Graham Crunch Cereal,121,14,13.5
+37127,37123,Organic Promise Sprouted Grains Cereal,121,14,10.2
+37175,37171,Special K Chocolatey Caramel Pastry Crisps,48,14,5.0
+37234,37230,"Cereal, TropicO's",121,14,3.4
+37239,37235,Sprout & Shine Cereal,121,14,5.0
+37266,37262,Original Bran Cereal,121,14,8.7
+37299,37295,Bite Size Frosted Shredded Wheat,121,14,9.2
+37409,37405,Frosted Mini-Wheats Little Bites Chocolate Cereal,121,14,2.2
+37430,37426,Toaster Strudel Danish Style Cream Cheese Toaster Pastries,48,14,12.3
+37468,37464,Apple Cinnamon Instant Oatmeal,130,14,11.7
+37530,37526,Swiss Muesli Original Recipe All Natural,121,14,7.2
+37780,37776,Vanilla All Natural Liquid Coffee Creamer,121,14,14.7
+37791,37787,Granola Chocolate Elation,57,14,4.4
+37858,37854,Berry Medley Oatmeal,130,14,8.6
+37873,37869,Breakfast Essentials® Classic French Vanilla Powder Drink Mix,48,14,7.7
+37959,37955,Homestyle Oatmeal Raisin Granola,57,14,8.7
+38038,38034,Gluten Free Cherry Breakfast Bars,48,14,12.3
+38043,38039,Smart Bran With Psyllium & Oatbran Cereal,121,14,10.6
+38067,38063,Cocoa Puffs Cereal,121,14,14.9
+38077,38073,Organic Honey Hemp Sprouted Oat Granola,57,14,4.2
+38114,38110,Organic Promise Indigo Morning Cereal,121,14,5.6
+38184,38180,Organic Chia Sprouted Oat Vanilla Granola,57,14,11.1
+38203,38199,Blueberry Pancake and Waffle Mix,130,14,14.3
+38221,38217,Snackimals Vanilla Blast Cereal,121,14,14.1
+38285,38281,Organic Extra Thick Rolled Oats,130,14,1.7
+38322,38318,Original Flavor Instant Oatmeal,130,14,1.3
+38332,38328,Organic Protein Dark Chocolate Coconut Granola,57,14,4.8
+38440,38436,Dark Chocolate Cranberry Granola,57,14,9.3
+38578,38574,Love Crunch Aloha Blend Granola,57,14,8.3
+38686,38682,Gluten Free Instant Oatmeal Strawberry Shortcake Flavor,130,14,12.8
+38795,38791,Organic Buttermilk Pancake Mix,130,14,1.5
+38805,38801,Oat Clusters Toasted Granola Raisin Almond Crunch,57,14,14.6
+38830,38826,Blueberry Soft-Baked Oatmeal Squares,48,14,7.0
+38838,38834,Organic Razzi Raspberry Frosted Toaster Pastries 6 Count,48,14,9.7
+38842,38838,Purely O's Organic Cereal,121,14,1.0
+38879,38875,Gluten Free Pancake Mix,130,14,12.3
+38941,38937,Original Instant Oatmeal Hot Cereal,130,14,4.4
+38957,38953,Original Hot Wheat Cereal,130,14,12.5
+39024,39020,Original Original Honest O's Cereal,121,14,12.7
+39077,39073,Whole Wheat Buttermilk Pancake Mix,130,14,2.1
+39093,39089,Natural Puffed Wheat Cereal,121,14,9.8
+39116,39112,Organic Scottish Oatmeal,130,14,8.4
+39120,39116,Ginger Snap Granola,57,14,14.6
+39146,39142,Old Fashioned Oats,130,14,3.0
+39170,39166,Organic Puffed Kamut Cereal,121,14,2.5
+39178,39174,Honey Nut Cheerios Medley Crunch Cereal,121,14,7.4
+39220,39216,Original Multigrain Spoonfuls Cereal,121,14,3.3
+39321,39317,WellBars With Crunchy Peanuts & Honey,48,14,7.6
+39374,39370,Honey Peanut Butter Hot Oatmeal Bowl,130,14,11.8
+39415,39411,Organic Cinnamon Harvest Cereal,121,14,3.1
+39445,39441,"Instant, Irish Oatmeal, Maple & Brown Sugar",130,14,10.9
+39447,39443,Organic Multigrain Apple Cobbler Cereal Bars,48,14,5.4
+39477,39473,"Gluten Free Granola, Extreme Fruit and Nut, Family Value Size",57,14,1.2
+39492,39488,Enriched Bran Flakes Cereal,121,14,10.1
+39500,39496,"Variety Pack - Chocolate Chunk, Peanut Butter Chocolate Chip, S'mores Granola Bars",48,14,10.9
+39511,39507,Pop-Tarts Unfrosted Strawberry,48,14,11.7
+39554,39550,Berry Vanilla Puffs,121,14,14.6
+39564,39560,Go Lean Crunch! Honey Almond Flax Cereal,121,14,12.5
+39602,39598,"Granola, Artisan, Cranberry",57,14,2.5
+39811,39807,Ancient Grain Oatmeal Cranberry Pumpkin Seed,130,14,13.0
+39836,39832,Rise Krisipies Toasted Rice Cereal,121,14,4.2
+39858,39854,Fruteria Chewy Mango Strawberry Chewy Granola Bars,57,14,5.0
+39865,39861,Flax Plus Hot Oatmeal,130,14,2.8
+39889,39885,Vanilla Cranberry Granola,57,14,9.9
+39919,39915,Real Medleys Supergrains Blueberry Pecan With Other Natural Flavor,130,14,5.1
+39964,39960,Golden Raisin Cinnamon Breakfast Bars,48,14,14.0
+40004,40000,Select Starts Cranberry Almond Instant Oatmeal,130,14,9.9
+40025,40021,Kix Crispy Corn Puffs Cereal,121,14,10.8
+40066,40062,Original Golden Grahams,121,14,5.3
+40127,40123,"Hot Cereal, Instant, Quinoa & Oat",130,14,12.9
+40152,40148,Organic Ancient Grains Crispbread,121,14,6.2
+40216,40212,Honey Oat Clusters,121,14,8.2
+40218,40214,90 Calorie Chocolate Fudge Brownies,48,14,2.9
+40241,40237,Gluten Free Original Oatmeal,130,14,8.5
+40258,40254,Protein Oats & Honey Cheerios,121,14,6.1
+40282,40278,Special K Original,121,14,13.6
+40293,40289,Organic Flax Plus Multibran Flakes Cereal,121,14,3.8
+40348,40344,All-Bran Complete Wheat Flakes Cereal,121,14,10.2
+40411,40407,Honey Wheat Complete Pancake Mix,130,14,12.3
+40431,40427,Organic Gluten Free Crispy Brown Rice Cereal,121,14,5.5
+40455,40451,Breakfast Pack,121,14,14.8
+40499,40495,Honey Nut Tasteeos,121,14,3.1
+40558,40554,Oat Blueberry Lemon Whenever Bars,48,14,11.7
+40572,40568,Paleo Pancake & Waffle Mix,130,14,13.6
+40578,40574,Rice Cereal,121,14,4.1
+40725,40721,Organic Creamy Buckwheat Hot Cereal Gluten Free,130,14,6.2
+40789,40785,Hemp Plus Granola,57,14,1.9
+40939,40935,Special K Cinnamon Pecan Cereal,121,14,10.8
+41016,41012,Pro-Teen Crunch Cereal,121,14,13.8
+41024,41020,Farina Hot Cereal,130,14,6.1
+41033,41029,Vanilla Artisan Granola,57,14,7.3
+41061,41057,Soft-Baked Ripe Strawberry Cereal Bars,48,14,2.4
+41087,41083,Gluten Free Wheat Free Pancake & Waffle Mix,130,14,8.5
+41089,41085,Warm & Crunchy Apple Cinnamon Granola,130,14,3.5
+41101,41097,Quick 1-Minute Oats,130,14,9.2
+41125,41121,Superfood Cereal Maca Double Chocolate,130,14,4.4
+41177,41173,Honey Oat Clusters Cereal,57,14,13.0
+41230,41226,Shredded Wheat Bite Size Cereal,121,14,14.9
+41241,41237,Raspberry Coconut Oatmeal Fruit Squeeze,121,14,11.9
+41247,41243,Fruit Juice Sweetened Millet Rice Cereal,121,14,11.9
+41319,41315,Organic Handmade Granola,57,14,7.7
+41336,41332,Organic Recipe Granola,57,14,10.4
+41355,41351,Family Size Naturally Flavored Whole Grain Oats Cereal,121,14,1.0
+41364,41360,Maple-icious Pecan Soft Baked Granola,57,14,2.4
+41371,41367,Frosted Mini-Wheats Blueberry Cereal,121,14,5.8
+41385,41381,Quaker Real Medleys Peach Apple Walnut Multigrain Cereal,121,14,13.2
+41480,41476,Gluten Free Honey Nut Granola Mix,121,14,9.6
+41552,41548,Mango Peach Passion Cereal,121,14,4.7
+41593,41589,Chocolate Oat Clusters,121,14,14.9
+41627,41623,Organic High Fiber Oat Bran Hot Cereal,130,14,8.8
+41648,41644,Multigrain Oatbran Cereal,121,14,6.0
+41672,41668,Steel Cut with Protein Maple & Brown Sugar Oatmeal,130,14,11.2
+41691,41687,Honey Puffs Cereal,121,14,7.0
+41750,41746,Instant Oatmeal Weight Control Variety,130,14,2.4
+41828,41824,Instant Oatmeal Original,130,14,5.2
+41830,41826,Soft and Chewy Coconut Cashew Granola,57,14,10.6
+41848,41844,Honey Nut Cheerios,121,14,11.7
+41894,41890,Organic Mesa Sunrise Cereal,121,14,1.9
+41953,41949,Heritage O's Multigrain Cereal,121,14,6.1
+41979,41975,Crunchy Almond Cereal,121,14,13.7
+42026,42022,Jr Organic Chocolate Banana Granola,57,14,10.3
+42033,42029,Qi'a Gluten Free Oatmeal Superseeds and Grains packets,121,14,2.3
+42040,42036,Low Fat Strawberry Raspberry Granola,57,14,3.7
+42046,42042,Gluten Free 8 Grain Hot Cereal,130,14,4.6
+42066,42062,Banana Honey Nut Breakfast Bars,48,14,3.5
+42130,42126,Cap'n Crunch Crunch Berries Cereal,121,14,12.1
+42155,42151,Organic Promise Sweet Potato Sunshine Cereal,121,14,12.4
+42166,42162,Organic Dark Chocolate Almond Granola Cereal,121,14,12.8
+42177,42173,Passover Pancake Mix,130,14,4.1
+42264,42260,Hemp Peach Organic Oatmeal,130,14,3.7
+42285,42281,Heritage Bites Cereal,121,14,2.2
+42291,42287,Organic Pumpkin Flax Granola,57,14,10.8
+42327,42323,Veganic Sprouted Ancient Maize Flakes,121,14,8.1
+42357,42353,Original Creamy Hot Wheat Cereal,130,14,12.6
+42423,42419,Morning Oat Crunch Cinnamon Cereal,121,14,11.1
+42429,42425,Blueberry Almond Granola,57,14,7.0
+42450,42446,Shredded Wheat,121,14,8.5
+42472,42468,Original Ancient Grain Granola + Puffs Cereal,121,14,8.4
+42540,42536,Gluten Free Original Granola,57,14,11.4
+42553,42549,Rice Krispies,121,14,12.1
+42572,42568,"Oats, Gluten Free, Old Fashioned",130,14,13.3
+42623,42619,Granola Crunch Oats 'N Honey,57,14,6.1
+42625,42621,Gluten Free Variety Pack Maple Brown Sugar/Apple Cinnamon/Original Oatmeal,130,14,4.6
+42790,42786,Pop-Tarts Wildlicious,48,14,11.0
+42907,42903,Gluten Free Puffins Honey Rice Cereal,121,14,12.4
+42916,42912,Toaster Strudel Apple Toaster Pastries,48,14,6.7
+43031,43027,All-Bran Original Cereals,121,14,6.7
+43155,43151,Ice Cream Shoppe Frosted Hot Fudge Sundae Pop Tarts,48,14,11.7
+43193,43189,Warm & Crunchy Cranberry Almond Granola,57,14,6.2
+43199,43195,Cheerios Family Size Cereal,121,14,10.7
+43224,43220,Blueberry Morning Blueberry Cereal,121,14,7.8
+43301,43297,Whole Grain Honey Crunch Cereal,121,14,7.8
+43335,43331,Special K Chocolatey Pretzel Cereal Bars,48,14,2.0
+43359,43355,Gluten Free Extra Thick Rolled Oats,130,14,9.3
+43384,43380,Cocoa Goodness Oat Clusters Subtly Sweetened Granola Toasted to Perfection,57,14,12.8
+43406,43402,Currant Granola With Flax Seeds,57,14,4.4
+43413,43409,Frosted Mini-Wheats Original Cereal,121,14,11.1
+43419,43415,Original Cinnamon Granola with Cranberries and Sunflower Seeds,57,14,9.1
+43533,43529,Chocolate Joy Mighty Flakes,121,14,14.3
+43556,43552,The Original,121,14,13.3
+43602,43598,Raisin Crunch Sprouted Granola,57,14,14.6
+43620,43616,Chocolate Chip Granola,57,14,4.4
+43645,43641,Soft Baked Banana Bread,48,14,7.2
+43648,43644,Corn Grits,130,14,1.5
+43691,43687,Instant Original Hot Cereal,130,14,14.0
+43703,43699,Nutri-Grain Strawberry Greek Yogurt Cereal Bars,48,14,10.1
+43752,43748,Organic Oven Toasted Steel Cut Oats,130,14,13.6
+43841,43837,Natural Instant Oatmeal,130,14,11.4
+43857,43853,Maple Pecan Granola Clusters,57,14,3.6
+44030,44026,Safari Cocoa Crunch Cereal,121,14,9.0
+44035,44031,Pop-Tarts Frosted Strawberry/Frosted Brown Sugar Cinnamon Variety Pack Toaster Pastries,48,14,1.2
+44117,44113,Organic Unfrosted Granny's Apple Pie Toaster Pastries,48,14,3.9
+44191,44187,Protein Caramel Nut Chewy Bars,48,14,4.6
+44224,44220,Organic Oat Bran Pancake & Waffle Mix,130,14,3.8
+44297,44293,Organic Frosted Wildberry Acai Toaster Pastries,48,14,10.9
+44315,44311,Scottish Oatmeal,130,14,9.0
+44346,44342,Cinnamon Chex,121,14,11.9
+44356,44352,Organic Quick Cooking Steel Cut Oats,130,14,4.7
+44365,44361,Spoon Size Wheat 'n Bran Shredded Wheat Cereal,121,14,4.9
+44389,44385,Cinnamon Toasters Cereal,121,14,1.1
+44426,44422,Organic Old Fashioned Rolled Oats,130,14,11.4
+44479,44475,Honey Bunches of Oats Honey Roasted with Almonds Cereal,121,14,12.9
+44492,44488,Granola Whole Grain Honey Oat,57,14,4.5
+44509,44505,Mixed Berry Crunch Protein Oatmeal,130,14,9.8
+44565,44561,Gluten Free Lemon Streusel Muffins,48,14,9.2
+44581,44577,Market Blend Handmade Granola,57,14,12.8
+44598,44594,Special K Oats & Honey Cereal,121,14,2.6
+44679,44675,Musli No. 1 Natural Body Power,121,14,5.5
+44739,44735,"Granola, Apple Cinnamon",57,14,5.8
+44764,44760,Swiss Muesli Original Recipe,121,14,8.4
+44829,44825,Brown Rice Crisps,121,14,12.9
+44894,44890,Strawberry Fruit & Grain Cereal Bars,48,14,4.0
+44901,44897,Organic Honest O's Honey Nut Cereal,121,14,12.0
+44933,44929,Strawberries & Cream Instant Oatmeal,130,14,3.6
+44947,44943,Life Cereal,121,14,12.9
+45072,45068,Nutri-Grain Harvest Blueberry Bliss Breakfast Bars,48,14,7.4
+45085,45081,Gluten-Free Pancake Mix,130,14,5.6
+45099,45095,"Granola, Gluten Free, Cranberry Orange Cashew",57,14,12.0
+45116,45112,Butter Flavor Instant Grits,130,14,12.2
+45172,45168,"Granola, Organic, Honey Cashew Vanilla",121,14,14.5
+45223,45219,Gluten Free Pantry Muffin Mix,130,14,10.2
+45273,45269,Hot Oats Apple Cinnamon,57,14,7.0
+45299,45295,Cream of Buckwheat Cereal,130,14,8.3
+45326,45322,Cherry Chocolate,57,14,11.8
+45340,45336,Flax Plus Vanilla Almond Granola,57,14,8.4
+45351,45347,Special K Chocolatey Delight Pastry Crisps,48,14,11.5
+45354,45350,Special K Heavenly Caramel Brownies,121,14,6.7
+45376,45372,Pop-Tarts Frosted Chocolate Fudge Toaster Pastries,48,14,11.6
+45387,45383,Pop-Tarts Frosted Raspberry Toaster Pastries,48,14,7.9
+45398,45394,Kellogg's Special K Strawberry Fruit Crisps 100 Calorie,48,14,5.2
+45445,45441,Reese Puffs Peanut Butter Cereal,121,14,5.8
+45496,45492,Cereal with Real Strawberries,121,14,5.3
+45588,45584,Farmhouse Waffle & Pancake Mix,130,14,1.7
+45600,45596,Smart Start Original Antioxidants Cereal,121,14,6.6
+45667,45663,Honey Bunches of Oats Cereal With Real Apples & Cinnamon Bunches,121,14,11.4
+45697,45693,Blueberry Pecan Mix Granola,57,14,11.8
+45709,45705,Original Muesli Toasted Oats,121,14,10.3
+45835,45831,Dipps Dark Chocolatey Granola Bars,48,14,4.4
+45962,45958,"Cereal, Ancient Grain Granola + Puffs, Blueberry Hemp",57,14,10.8
+45969,45965,Steel Cut Oats,130,14,10.6
+46012,46008,Chocolate Toasted Oats,121,14,10.4
+46062,46058,Multi Grain Cheerios,121,14,1.4
+46091,46087,Gluten Free Homestyle Hot Oatmeal,130,14,5.2
+46119,46115,Banana  Granola Cereal,57,14,10.0
+46243,46239,Oat Fit Maple & Brown Sugar Instant Oatmeal,130,14,6.0
+46282,46278,Berry Sprouted Blend Cereal,121,14,11.3
+46322,46318,Buckwheat Pancake Mix,130,14,14.4
+46394,46390,Special K Touch of Honey Granola,121,14,6.0
+46486,46482,Apple Spice Granola,57,14,4.1
+46535,46531,Power O's Chocolate cereal,121,14,10.0
+46536,46532,Gone Nutty! Peanut Butter Pop-Tarts,48,14,2.1
+46545,46541,Corn Flakes,121,14,14.3
+46565,46561,Organic Superfood Oat Based Espresso Maca Mulberry Cereal,130,14,5.2
+46577,46573,Raisin Granola Cereal,121,14,13.0
+46645,46641,Veganic Sprouted Oat O's Cereal,121,14,14.7
+46713,46709,Gluten Free Old Fashioned Rolled Oats,130,14,9.6
+46816,46812,Natural Buttermilk Pancake & Waffle Mix,130,14,13.4
+46834,46830,FiberPlus Antioxidants Protein Peanut Chewy Bars,48,14,8.2
+46839,46835,Nutri-Grain Chocolate Raspberry Bar,48,14,8.6
+46851,46847,Quick Cooking Rolled Oats Irish Oatmeal,130,14,9.6
+46856,46852,Sunset Blend Gluten Free Granola,57,14,14.2
+46872,46868,Organic Ancient Grains Granola,57,14,7.2
+46948,46944,Honey'd Corn Flakes,121,14,3.2
+47054,47050,Cocoa Krispies Cereal,121,14,12.1
+47059,47055,7 Whole Grain Honey Puffs Cereal,121,14,13.0
+47068,47064,Whole Wheat Blend Pancake & Waffle Mix,130,14,8.5
+47240,47236,Protein with Dark Chocolate Granola,121,14,13.8
+47370,47366,Raisin Bran Crunch Cereal,121,14,11.9
+47432,47428,Protein & Fiber Hot Oatmeal Farmer's Market Berry Crumble,130,14,10.1
+47465,47461,Urban Radish Blend Gluten Free Granola,57,14,4.1
+47469,47465,Trifecta Blend Handmade Granola,57,14,14.1
+47497,47493,"Granola, Super Seed & Fruit",57,14,3.2
+47508,47504,Blueberry Breakfast Biscuits,48,14,8.4
+47520,47516,Special K Fruit & Yogurt Cereal,121,14,4.4
+47524,47520,Gluten Free Blueberry Breakfast Bars,48,14,9.1
+47563,47559,Organic Instant Regular Oatmeal,130,14,3.8
+47599,47595,Coconut Almond Protein Chewy Bars,48,14,13.4
+47703,47699,Product 19 Cereal,121,14,12.3
+47754,47750,Sweetened Bite Size Shredded Wheat Cereal,121,14,5.2
+47765,47761,EnviroKidz Brown Sugar Maple Oatmeal,130,14,13.9
+47842,47838,Oatmeal Blueberry Acai Flax Fruit Squeeze,121,14,12.9
+47847,47843,Froot Loops Family Size Cereal,121,14,14.9
+47875,47871,Toasted Oats Cereal,121,14,11.0
+47897,47893,Steel Cut Irish Oatmeal,130,14,11.6
+47945,47941,Special K Red Berries Cereal,121,14,4.8
+47970,47966,Old Fashioned Rolled Oats,130,14,12.8
+47999,47995,Weight Control Maple & Brown Sugar Instant Oatmeal,130,14,10.3
+48011,48007,Flax Plus Raisin Bran Cereal,121,14,5.6
+48044,48040,Kix Crispy Corn Puffs,121,14,9.9
+48062,48058,Organic Honey'd Corn Flakes Cereal Gluten Free,121,14,10.9
+48110,48106,Traditional Ancient Grains Hot Cereal,130,14,11.2
+48162,48158,Blackberry Graham Soft-Baked Cereal Bars,48,14,4.6
+48214,48210,Whole Wheat Blueberry Fig Bars,48,14,6.2
+48385,48381,Blueberry Chia Buckwheat Muesli,57,14,4.1
+48543,48539,Instant Gluten-Free Brown Sugar & Flax Oatmeal,130,14,5.2
+48588,48584,Cocoa Dyno-Bites Cereal,121,14,3.3
+48677,48673,Raw Pure & Simple Organic Bare with Flax Instant Multigrain Hot Cereal,130,14,13.0
+48721,48717,Real Medleys Apple Walnut Oatmeal,130,14,1.1
+48743,48739,Limited Edition Mini Trix Cereal,121,14,12.6
+48746,48742,Quick 1 Minute Whole Grain Oats,130,14,5.9
+48798,48794,Froot Loops Bloopers Cereal,121,14,1.2
+48948,48944,Variety Pack of Gluten Free Instant Oatmeal,121,14,2.9
+48959,48955,Chocolate Chip Crisp Bar,48,14,2.8
+49004,49000,Blueberry Bliss Snack,48,14,7.3
+49044,49040,Blueberry Minute Muffin,130,14,9.4
+49083,49079,Special K Vanilla Almond Cereal,121,14,2.2
+49111,49107,Nutri-Grain Raspberry Cereal Bars,48,14,1.3
+49115,49111,Original Instant Oatmeal,130,14,2.9
+49139,49135,"Cereal, Superfood, Acai Blueberry",121,14,6.6
+49145,49141,Gluten Free Rice Chex,121,14,12.3
+49245,49241,Organic Original Hot Oatmeal,130,14,13.7
+49330,49326,Cereal Variety Fun Pack,121,14,9.1
+49395,49391,Light and Fluffy Buttermilk Pancake Mix,130,14,2.0
+49547,49543,Chocolate Cheerios Cereal,121,14,10.8
+49637,49633,Shake 'N Pour Buttermilk Pancake Mix,130,14,14.2
+49667,49663,Ultra Protein Power Crunch Peanut Butter N' Honey Granola,57,14,10.2

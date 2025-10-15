@@ -1,0 +1,12 @@
+,order_id,customer_id,eval_set,order_number,orders_day_of_week,order_hour_of_day,days_since_prior_order
+0,2539329,1,prior,1,2,8,
+1,2398795,1,prior,2,3,7,15.0
+2,473747,1,prior,3,3,12,21.0
+3,2254736,1,prior,4,4,7,29.0
+4,431534,1,prior,5,4,15,28.0
+5,3367565,1,prior,6,2,7,19.0
+6,550135,1,prior,7,1,9,20.0
+7,3108588,1,prior,8,1,14,14.0
+8,2295261,1,prior,9,1,16,0.0
+9,2550362,1,prior,10,4,8,30.0
+10,1187899,1,train,11,4,8,14.0
